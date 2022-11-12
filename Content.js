@@ -1,3 +1,3 @@
-if (window.location.hostname === "<code>") {
-    // <code>
+if (window.location.hostname === "{code}") {
+    // {code}
 }
