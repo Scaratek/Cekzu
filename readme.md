@@ -6,7 +6,7 @@ Site Block Chrome Extension Example
     - // {code} with code you want to run when it detects the website
     - {site} with the websites you want to block
 - To add more blocked sites simply copy and paste 
-```javascript
+```js
  case "{site}":
         // {code}
         break;
