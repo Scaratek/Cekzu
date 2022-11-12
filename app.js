@@ -1,5 +1,5 @@
 switch (window.location.hostname) {
-    case "<site>":
-        // <code>
+    case "{site}":
+        // {code}
         break;
 }
