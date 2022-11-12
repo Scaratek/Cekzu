@@ -1,4 +1,4 @@
-# Niss
+# Ness
 Site Block Chrome Extension Example
 
 ## Configuration
