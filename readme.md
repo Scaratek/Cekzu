@@ -1,5 +1,5 @@
 # Ness
-- *WARNING: This will no longer work in 2023 as manifest v2 will be discontinued. I might update this, might not.*
+- **WARNING: This will no longer work in 2023 as manifest v2 will be discontinued. I might update this, might not.**
 Site Block Chrome Extension Example
 
 ## Configuration
