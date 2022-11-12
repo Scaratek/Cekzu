@@ -8,7 +8,7 @@ Site Block Chrome Extension Example
     - {site} with the websites you want to block
 - To add more blocked sites simply copy and paste 
 ```js
-if (window.location.hostname === "{code}") {
+if (window.location.hostname === "{site}") {
     // {code}
 }
 ```
