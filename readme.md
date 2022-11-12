@@ -20,7 +20,7 @@ To add another blocked site
 - Go to chrome://extensions (or whatever your browser is) 
     - Enable Developer Mode
     - Click Load Unpacked
-    - Go to the path of Ness
+    - Go to the path of Ness (your configured one)
 - Your done!
 
 ## Example
