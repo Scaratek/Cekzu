@@ -13,5 +13,15 @@ if (window.location.hostname === "{code}") {
 ```
 To add another blocked site
 
+## Installation
+- Download the source code
+    - Configure it to your liking
+    
+- Go to chrome://extensions (or whatever your browser is) 
+    - Enable Developer Mode
+    - Click Load Unpacked
+    - Go to the path of Ness
+- Your done!
+
 ## Example
 - Go to the Example folder for an exmaple
